@@ -1,0 +1,6 @@
+content {
+  width: 400px;
+  display: flex;
+  direction: column;
+  flex-wrap: nowrap;
+}
