@@ -974,6 +974,14 @@ MacOS系统下，Chrome安装Extension的位置为
 
 
 
+## 4、自定义Extension
+
+
+
+### （1）QRCodeHelper
+
+用于显示当前页面的url地址的二维码，并允许自定义url地址。
+
 
 
 
