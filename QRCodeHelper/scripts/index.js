@@ -7,6 +7,7 @@ $(document).ready(function () {
       url = 'http://h5.m.taobao.com/app/UI/CardPreview?json=' + encodeURIComponent(url);
     }
 
+    // @see https://stackoverflow.com/questions/4511804/set-text-in-jquery
     $('#UrlString').text(url);
     $('#QRCodeImage').qrcode({ width: 350, height: 350, text: url });
   });
