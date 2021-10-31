@@ -984,6 +984,22 @@ MacOS系统下，Chrome安装Extension的位置为
 
 
 
+5、.m文件编译报错
+
+```
+.*\.m:\d+:\d+: error:
+```
+
+chrome extension
+
+https://chrome.google.com/webstore/detail/regex-search/bcdabfmndggphffkchfdcekcokmbnkjl/related
+
+https://superuser.com/questions/417875/how-can-i-search-for-regular-expressions-within-webpages-using-google-chrome-or/421723
+
+
+
+
+
 
 
 ## References
